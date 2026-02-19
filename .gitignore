@@ -1,0 +1,14 @@
+# Compiled output
+*.pdf
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Nix
+.direnv/
+result
