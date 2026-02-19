@@ -76,7 +76,7 @@
 // Professional Summary
 #section("Professional Summary")
 
-Seasoned Software Engineer with over 6 years of experience building scalable fintech platforms and distributed systems. Proven expertise in real-time trading systems, cloud infrastructure, and DevOps practices. Currently serving in multiple leadership and technical roles across fintech and AI industries.
+Seasoned Software Engineer with over 8 years of experience building scalable fintech platforms and distributed systems. Proven expertise in real-time trading systems, cloud infrastructure, and DevOps practices. Currently serving in multiple leadership and technical roles across fintech and AI industries.
 
 // Skills
 #section("Technical Skills")
