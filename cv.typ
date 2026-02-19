@@ -21,6 +21,10 @@
 // Colors
 #let primary = rgb("#2d3748")
 #let secondary = rgb("#718096")
+#let accent = rgb("#2563eb")
+
+// Link styling
+#show link: it => text(fill: accent)[#underline(it)]
 
 // Header
 #align(center)[
