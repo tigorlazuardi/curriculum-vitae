@@ -127,7 +127,7 @@ Seasoned Software Engineer with over 6 years of experience building scalable fin
 
 #experience(
   "Jaga Pemilu",
-  "Backend Engineer",
+  "Senior Backend Engineer",
   "2024",
 )[
   #text(size: 9pt, fill: secondary)[_Jaga Pemilu is a vote counting assistance system for the 2024 Indonesian general election._]
