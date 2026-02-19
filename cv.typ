@@ -97,6 +97,7 @@ Seasoned Software Engineer with over 6 years of experience building scalable fin
 )[
   - Leading technology strategy and product development for the company
   - Architected and developed Fartix, an integrated ticketing platform enabling users to create and manage events seamlessly
+  - Built monitoring and metrics systems including user behavior tracking and sales history analytics for business insights
 ]
 
 #experience(
