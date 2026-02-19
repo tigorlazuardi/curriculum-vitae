@@ -91,12 +91,12 @@ Seasoned Software Engineer with over 6 years of experience building scalable fin
 #section("Professional Experience")
 
 #experience(
-  "Grandboard Strategi Multi Cipta",
+  link("https://grandboard.id")[Grandboard Strategi Multi Cipta],
   "Chief Technology Officer",
   "2025 – Present",
 )[
   - Leading technology strategy and product development for the company
-  - Architected and developed Fartix, an integrated ticketing platform enabling users to create and manage events seamlessly
+  - Architected and developed #link("https://fartix.id")[Fartix], an integrated ticketing platform enabling users to create and manage events seamlessly
   - Built monitoring and metrics systems including user behavior tracking and sales history analytics for business insights
 ]
 
@@ -110,7 +110,7 @@ Seasoned Software Engineer with over 6 years of experience building scalable fin
 ]
 
 #experience(
-  "PT Bareksa Portal Investasi (Bareksa)",
+  link("https://bareksa.com")[PT Bareksa Portal Investasi (Bareksa)],
   "Senior Software Engineer",
   "2018 – Present",
 )[
