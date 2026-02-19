@@ -125,6 +125,16 @@ Seasoned Software Engineer with over 6 years of experience building scalable fin
   - Developed monitoring and metrics systems along with core internal tools and libraries used across the organization
 ]
 
+#experience(
+  "Jaga Pemilu",
+  "Backend Engineer",
+  "2024",
+)[
+  #text(size: 9pt, fill: secondary)[_Jaga Pemilu is a vote counting assistance system for the 2024 Indonesian general election._]
+  #v(2pt)
+  - Designed and developed the backend system to support real-time vote tallying and verification
+]
+
 // Education
 #section("Education")
 
