@@ -9,6 +9,5 @@
 .DS_Store
 Thumbs.db
 
-# Nix
-.direnv/
-result
+# mise
+mise.local.toml
