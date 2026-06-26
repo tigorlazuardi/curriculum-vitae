@@ -109,6 +109,8 @@ Seasoned Software Engineer with over 8 years of experience building scalable fin
   "Software Engineer",
   "2025 – Present",
 )[
+  #text(size: 9pt, fill: secondary)[_Built Jaga Desa for the Attorney General's Office (Kejaksaan Agung), a real-time platform for monitoring village fund (dana desa) usage across Indonesia._]
+  #v(2pt)
   - Built an audit system for tracking and verifying platform operations
   - Developed a data pipeline for mass document ingestion using OCR accelerated by NVIDIA GPUs
   - Implemented telemetry for error detection across the ingestion pipeline
