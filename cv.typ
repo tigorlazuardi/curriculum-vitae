@@ -151,3 +151,9 @@ Bachelor's Degree in Economics
 #text(weight: "bold")[Homeserver] #h(4pt) #text(fill: secondary, size: 9pt)[Nix, Lua]
 
 A NixOS-based home server infrastructure that hosts personal tools and entertainment services, accessible remotely from anywhere. Demonstrates expertise in declarative system configuration and self-hosted infrastructure management.
+
+#v(6pt)
+
+#text(weight: "bold")[Soul Map Atlas] #h(4pt) #text(fill: secondary, size: 9pt)[React, TypeScript, Hono, Cloudflare Workers, Neon Postgres]
+
+A spiritual self-discovery platform covering Astrology, Numerology, BaZi, Human Design, Compatibility, and an Inner Growth Journal. Built as a monorepo with an oRPC API on Cloudflare Workers, Drizzle ORM over Neon Postgres, and a React 19 frontend. Showcases full-stack architecture, type-safe APIs, and edge deployment.
