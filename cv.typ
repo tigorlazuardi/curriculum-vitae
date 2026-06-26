@@ -106,11 +106,13 @@ Seasoned Software Engineer with over 8 years of experience building scalable fin
 
 #experience(
   "Strategix AI Solution",
-  "Senior DevOps Engineer",
+  "Software Engineer",
   "2025 – Present",
 )[
-  - Established comprehensive monitoring and metrics infrastructure for AI platform operations
-  - Designed and implemented CI/CD deployment pipelines using Kubernetes and Docker
+  - Built an audit system for tracking and verifying platform operations
+  - Developed a data pipeline for mass document ingestion using OCR accelerated by NVIDIA GPUs
+  - Implemented telemetry for error detection across the ingestion pipeline
+  - Built data embedding and indexing to power an AI chatbot for knowledge synthesis
 ]
 
 #experience(
